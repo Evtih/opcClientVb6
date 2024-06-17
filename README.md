@@ -1,2 +1,0 @@
-# kotelSluice
-OPC
